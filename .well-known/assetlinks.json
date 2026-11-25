@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.horas.nurseroster",
+    "sha256_cert_fingerprints": ["0D:41:46:2E:28:E6:1B:5E:54:55:F7:AA:3C:2B:14:6C:45:57:5D:7E:CC:13:49:E8:BE:12:98:B1:7C:57:21:E7"]
+  }
+}]
